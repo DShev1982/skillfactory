@@ -1,5 +1,7 @@
 Соревнование I’m Something of a Painter Myself (https://www.kaggle.com/c/gan-getting-started) на Kaggle.
 
+ссылка на ноутбук в kaggle - https://www.kaggle.com/denisshev1982/the-nb-i-liked-01-07-21-cyclegan-getting-started?scriptVersionId=68739914
+
 Условие задачи:
 Есть 300 jpeg файлов с картинами Моне. Есть 7028 jpeg файлов с фотографиями. Надо преобразовать фотографии таким образом, чтобы они были похожи на картины Моне. 
 Для этого использовать GAN. 
